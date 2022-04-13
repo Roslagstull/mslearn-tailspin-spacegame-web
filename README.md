@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AcademyAzure2022/KSpace%20Game%20-%20web%20-%20Pipeline/_apis/build/status/Roslagstull.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/AcademyAzure2022/KSpace%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=12&branchName=build-pipeline)
 
 # Contributing
 
